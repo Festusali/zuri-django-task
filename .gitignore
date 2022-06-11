@@ -1,0 +1,3 @@
+zuri-env/
+__pycache__/
+*.sqlite3
